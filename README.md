@@ -1,45 +1,56 @@
 <h1 align="center">ObezLord</h1>
-<h3 align="center">Infrastructure • Hosting • Automation • Game Servers</h3>
+<p align="center">
+Infrastructure Engineering • Hosting Architecture • Automation Systems
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Hosting%20Infrastructure-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Servers-Dedicated%20%26%20VDS-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Specialty-Automation%20Systems-111111?style=for-the-badge">
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## Overview
 
-I focus on building scalable hosting infrastructures, automation systems, and high-performance server environments.  
-My work revolves around optimizing VDS environments, managing production-grade services, and developing custom automation solutions.
+Infrastructure-focused engineer building scalable hosting environments and automation-driven systems.  
+Experienced in managing production-grade dedicated servers, virtualization stacks, and high-performance game server ecosystems.
 
-- 🚀 Infrastructure & Hosting Solutions  
-- 🖥️ VDS & Dedicated Server Management  
-- 🔐 Security & System Hardening  
-- 🎮 Game Server Architecture (FiveM, Minecraft, etc.)  
-- ⚙️ Automation & Control Panel Development  
+Design philosophy centers on stability, predictable scaling, and operational efficiency.
 
 ---
 
-## 🏗️ Core Expertise
+## Core Domains
 
 - Linux Server Administration (AlmaLinux, Ubuntu, Debian)
-- Plesk & Web Hosting Management
-- Network Optimization & DDoS Awareness
+- Web Hosting & Control Panel Management (Plesk, Nginx, Apache)
+- Infrastructure Automation & Backend Logic
 - Virtualization & Resource Optimization
-- Backend Logic & Bot Automation Systems
-- Discord & Game Server Integrations
+- Network Configuration & Performance Tuning
+- Security Hardening & Abuse Monitoring
+- Game Server Architecture (FiveM, Minecraft)
 
 ---
 
-## 📂 Active Focus Areas
+## Technology Stack
 
-- Hosting Automation Systems
-- Customer Control Panel Development
-- High-Performance Game Server Infrastructure
-- Security Monitoring & Abuse Prevention
-- Scalable Web Hosting Architectures
+<p>
+Linux • Docker • MySQL • Node.js • Git • GitHub Actions  
+Plesk • Nginx • Apache • Discord API • FiveM Framework • Minecraft Stack
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## Current Focus
 
-```txt
-Linux • Plesk • Docker • MySQL • Nginx • Apache
-Node.js • Discord.js • FiveM • Minecraft Server Stack
-Git • GitHub Actions • Cloud Infrastructure
+- Scalable Hosting Infrastructure
+- High-Availability Server Design
+- Custom Control Panel Development
+- Performance Optimization for Game Servers
+- Automation-Based Customer Management Systems
+
+---
+
+<p align="center">
+Building reliable, secure, and scalable infrastructure systems.
+</p>
