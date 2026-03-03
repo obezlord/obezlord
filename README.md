@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Infrastructure-Engineering-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111&color=00F5FF" />
 <img src="https://img.shields.io/badge/Hosting-Architecture-0A0A0A?style=for-the-badge&logo=server&logoColor=white&labelColor=111111&color=7A5CFF" />
 <img src="https://img.shields.io/badge/Automation-Systems-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111&color=FF3CAC" />
@@ -21,11 +25,11 @@ It is performance under pressure, predictable scaling, and long-term operational
 
 I design and manage production-grade environments focused on:
 
-- Dedicated & VDS Architecture
-- Virtualization Optimization
-- Hosting Control Systems
-- Automation-Based Operations
-- Security & Abuse Monitoring
+- Dedicated & VDS Architecture  
+- Virtualization Optimization  
+- Hosting Control Systems  
+- Automation-Based Operations  
+- Security & Abuse Monitoring  
 
 ---
 
@@ -41,28 +45,11 @@ I design and manage production-grade environments focused on:
 
 ---
 
-## Infrastructure Domains
-
-**Hosting Engineering**
-- AlmaLinux / Ubuntu / Debian environments  
-- Resource isolation & performance tuning  
-- High-availability server design  
-
-**Automation Systems**
-- Custom control panel logic  
-- Backend orchestration  
-- Discord & API integrations  
-
-**Game Server Architecture**
-- FiveM optimization layers  
-- Minecraft performance scaling  
-- Custom infrastructure deployment  
-
----
-
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=obezlord&hide_border=true&background=0D1117&stroke=7A5CFF&ring=00F5FF&fire=FF3CAC&currStreakLabel=FFFFFF" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=obezlord&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=7A5CFF&text_color=ffffff&bg_color=0D1117" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=obezlord&hide_border=true&background=0D1117&stroke=7A5CFF&ring=00F5FF&fire=FF3CAC&currStreakLabel=FFFFFF" height="150"/>
 
 </div>
 
