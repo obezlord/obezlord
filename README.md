@@ -2,10 +2,13 @@
 <tr>
 <td width="60%">
 
+<div align="center">
+
 # ObezLord
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1500&color=00F5FF&vCenter=true&width=500&lines=Scalable+Hosting+Infrastructure;High-Performance+Server+Engineering;Automation-Driven+Systems;Dedicated+%26+VDS+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1500&center=true&vCenter=true&width=1000&lines=%3Cspan%20style%3D%22color%3A%2300F5FF%22%3EDedicated%20%26%20VDS%20Architecture%3C%2Fspan%3E;%3Cspan%20style%3D%22color%3A%237A5CFF%22%3EHigh-Performance%20Server%20Engineering%3C%2Fspan%3E;%3Cspan%20style%3D%22color%3A%23FF3CAC%22%3EAutomation-Driven%20Systems%3C%2Fspan%3E;%3Cspan%20style%3D%22color%3A%2300FF94%22%3ESecure%20%26%20Scalable%20Infrastructure%3C%2Fspan%3E" />
 
+</div>
 ---
 
 ### Infrastructure Architect
