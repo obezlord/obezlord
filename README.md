@@ -2,49 +2,76 @@
 
 # ObezLord
 
-**Infrastructure Architect • Hosting Systems • Automation Engineering**
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1500&color=00F5FF&center=true&vCenter=true&width=900&lines=Scalable+Hosting+Infrastructure;High-Performance+Server+Engineering;Automation-Driven+Systems;Dedicated+%26+VDS+Architecture;Secure+%26+Predictable+Scaling" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=2F81F7&center=true&vCenter=true&width=700&lines=Scalable+Hosting+Infrastructure;High-Performance+Server+Architecture;Automation-Driven+Systems;Dedicated+%26+VDS+Engineering" />
+<img src="https://img.shields.io/badge/Infrastructure-Engineering-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111&color=00F5FF" />
+<img src="https://img.shields.io/badge/Hosting-Architecture-0A0A0A?style=for-the-badge&logo=server&logoColor=white&labelColor=111111&color=7A5CFF" />
+<img src="https://img.shields.io/badge/Automation-Systems-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=111111&color=FF3CAC" />
 
 </div>
 
 ---
 
-## Architecture Mindset
+## System Philosophy
 
-Designing stable, scalable and performance-focused infrastructures.  
-Specialized in production-grade hosting environments, virtualization layers, and automation-based control systems.
+Infrastructure is not just deployment.  
+It is performance under pressure, predictable scaling, and long-term operational stability.
 
-Operational priority: reliability, predictable scaling, security integrity.
+I design and manage production-grade environments focused on:
 
----
-
-## Core Expertise
-
-**Infrastructure**
-- Linux Server Administration (AlmaLinux, Ubuntu, Debian)
-- Dedicated & VDS Environment Management
-- Virtualization & Resource Optimization
-- Network Performance Engineering
-
-**Hosting Stack**
-- Plesk
-- Nginx / Apache
-- MySQL
-- Docker-based deployments
-
-**Automation**
-- Control Panel Logic
-- Backend System Architecture
-- Discord API & Bot Integrations
-- Game Server Infrastructure (FiveM, Minecraft)
+- Dedicated & VDS Architecture
+- Virtualization Optimization
+- Hosting Control Systems
+- Automation-Based Operations
+- Security & Abuse Monitoring
 
 ---
 
-## Technical Environment
+## Core Stack
+
+<div align="center">
+
+`Linux` • `Docker` • `Node.js` • `MySQL` • `Git` • `CI/CD`  
+`Plesk` • `Nginx` • `Apache` • `Virtualization`  
+`FiveM Ecosystem` • `Minecraft Infrastructure`
+
+</div>
+
+---
+
+## Infrastructure Domains
+
+**Hosting Engineering**
+- AlmaLinux / Ubuntu / Debian environments  
+- Resource isolation & performance tuning  
+- High-availability server design  
+
+**Automation Systems**
+- Custom control panel logic  
+- Backend orchestration  
+- Discord & API integrations  
+
+**Game Server Architecture**
+- FiveM optimization layers  
+- Minecraft performance scaling  
+- Custom infrastructure deployment  
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=obezlord&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=7A5CFF&text_color=ffffff&bg_color=0D1117" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=obezlord&hide_border=true&background=0D1117&stroke=7A5CFF&ring=00F5FF&fire=FF3CAC&currStreakLabel=FFFFFF" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Engineering infrastructure that performs under scale.
+
+</div>
