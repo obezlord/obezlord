@@ -64,8 +64,6 @@ I design and manage production-grade environments focused on:
 
 <img src="https://github-readme-stats.vercel.app/api?username=obezlord&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=7A5CFF&text_color=ffffff&bg_color=0D1117" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=obezlord&hide_border=true&background=0D1117&stroke=7A5CFF&ring=00F5FF&fire=FF3CAC&currStreakLabel=FFFFFF" height="150"/>
-
 </div>
 
 ---
