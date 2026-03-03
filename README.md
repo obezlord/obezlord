@@ -1,56 +1,50 @@
-<h1 align="center">ObezLord</h1>
-<p align="center">
-Infrastructure Engineering • Hosting Architecture • Automation Systems
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Hosting%20Infrastructure-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Servers-Dedicated%20%26%20VDS-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Specialty-Automation%20Systems-111111?style=for-the-badge">
-</p>
+# ObezLord
 
----
+**Infrastructure Architect • Hosting Systems • Automation Engineering**
 
-## Overview
+</div>
 
-Infrastructure-focused engineer building scalable hosting environments and automation-driven systems.  
-Experienced in managing production-grade dedicated servers, virtualization stacks, and high-performance game server ecosystems.
+<br/>
 
-Design philosophy centers on stability, predictable scaling, and operational efficiency.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=2F81F7&center=true&vCenter=true&width=700&lines=Scalable+Hosting+Infrastructure;High-Performance+Server+Architecture;Automation-Driven+Systems;Dedicated+%26+VDS+Engineering" />
+
+</div>
 
 ---
 
-## Core Domains
+## Architecture Mindset
 
+Designing stable, scalable and performance-focused infrastructures.  
+Specialized in production-grade hosting environments, virtualization layers, and automation-based control systems.
+
+Operational priority: reliability, predictable scaling, security integrity.
+
+---
+
+## Core Expertise
+
+**Infrastructure**
 - Linux Server Administration (AlmaLinux, Ubuntu, Debian)
-- Web Hosting & Control Panel Management (Plesk, Nginx, Apache)
-- Infrastructure Automation & Backend Logic
+- Dedicated & VDS Environment Management
 - Virtualization & Resource Optimization
-- Network Configuration & Performance Tuning
-- Security Hardening & Abuse Monitoring
-- Game Server Architecture (FiveM, Minecraft)
+- Network Performance Engineering
+
+**Hosting Stack**
+- Plesk
+- Nginx / Apache
+- MySQL
+- Docker-based deployments
+
+**Automation**
+- Control Panel Logic
+- Backend System Architecture
+- Discord API & Bot Integrations
+- Game Server Infrastructure (FiveM, Minecraft)
 
 ---
 
-## Technology Stack
-
-<p>
-Linux • Docker • MySQL • Node.js • Git • GitHub Actions  
-Plesk • Nginx • Apache • Discord API • FiveM Framework • Minecraft Stack
-</p>
-
----
-
-## Current Focus
-
-- Scalable Hosting Infrastructure
-- High-Availability Server Design
-- Custom Control Panel Development
-- Performance Optimization for Game Servers
-- Automation-Based Customer Management Systems
-
----
-
-<p align="center">
-Building reliable, secure, and scalable infrastructure systems.
-</p>
+## Technical Environment
