@@ -61,6 +61,9 @@ I design and manage production-grade environments focused on:
 ---
 
 <div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=obezlord&hide_border=true&background=0D1117&stroke=7A5CFF&ring=00F5FF&fire=FF3CAC&currStreakLabel=FFFFFF" height="150"/>
+
 </div>
 
 ---
