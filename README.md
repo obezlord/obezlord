@@ -61,9 +61,6 @@ I design and manage production-grade environments focused on:
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=obezlord&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=7A5CFF&text_color=ffffff&bg_color=0D1117" height="150"/>
-
 </div>
 
 ---
